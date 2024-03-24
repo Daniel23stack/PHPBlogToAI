@@ -1,0 +1,11 @@
+{
+    "url": "https://test.foobar/articles",
+    "linkClass": ".article-title a",
+    "phpNavigator": "&articles=",
+    "phpNavAmount": 0,
+    "phpNavIncrement": 5,    
+    "idContainingContent" : "article",
+    "chapterSelector" : "select[name='chapter']",
+    "chapterOffset": "&chapter=",
+    "ins": "You are now in roleplay conversation mode. You should act according to this."
+}
